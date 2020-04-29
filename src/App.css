@@ -13,14 +13,14 @@ html, body {
 }
 
 .View {
-  height: 80vh;
+  height: 90vh;
   display: flex;
   align-items: flex-end;
   justify-content: center;
 }
 .controls {
   background-color: aqua;
-  height:20vh;
+  height:10vh;
 }
 .bar {
   background-color: blue;
